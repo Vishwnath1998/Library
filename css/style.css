@@ -1,0 +1,33 @@
+.nav-item{
+	font-size: 30px;
+	background-color: gray;
+}
+.carousel-inner{
+	
+	height: 80vmin;
+}
+
+.aboutimg{
+	width: 700px;
+	height: 400px;
+	margin-top: 35px;
+}
+.card-body{
+	color: red;
+	background-color: yellow;
+}
+.middle-section{
+	background-color: #00cc99;	
+}
+.mid{
+	background-color: #006600;
+}
+.my-5{
+	background-color: #cc6699;
+}
+.form{
+	background-color: #ffcc66;
+}
+.middle-foot{
+	background-color: #cc9900;
+}
